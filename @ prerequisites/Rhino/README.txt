@@ -1,0 +1,1 @@
+trascinare il file .rhp in una finsetra aperta di Rhinoceros per installare il plug in.

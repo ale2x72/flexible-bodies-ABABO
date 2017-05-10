@@ -1,6 +1,6 @@
 ![Flexible Bodies cover](https://raw.githubusercontent.com/ale2x72/flexible-bodies-ABABO/master/%40%20media/FB_cover.png)
 # flexible bodies
-Repository del materiale relativo al 
+Repository del materiale relativo al workshop di [Grasshopper][gh] presso l'Accademia di Belle Arti - 15-23 Maggio 2017
 
 ### tutors
 Alessio Erioli & Lapo Naldoni  
@@ -15,7 +15,7 @@ L'intenzione è affrontare la prospettiva del design per uno stile di vita nomad
 ## Schedule
 _legenda aule: L2 - Accademia, G4 - via del Guasto_  
   
-**Lunedì 15**
+**Lunedì 15**  
 9-18  
 _mattino - G4_  
 . introduzione al workshop - aesthetic of decision (lecture introduttiva)  
@@ -60,7 +60,7 @@ _pomeriggio - G4_
 . presentazione progetti  
   
 ## Prerequisiti
-Si chiede ai partecipanti di presentarsi muniti del proprio notebook o laptop con preinstallati Rhinoceros 3D e Grasshopper __in ambiente Windows__ (per chi possiede un Mac: __creare una partizione con BootCamp, non usare Parallel o altri ambienti di virtualizzazione__).  
+Si chiede ai partecipanti di presentarsi muniti del proprio notebook o laptop con preinstallati [Rhinoceros 3D][rhino] e [Grasshopper][gh] __in ambiente Windows__ (per chi possiede un Mac: __creare una partizione con BootCamp, non usare Parallel o altri ambienti di virtualizzazione__).  
   
 Non potremmo assistere chi non seguirà attentamente questi requisiti.  
   
@@ -76,4 +76,10 @@ froGH: https://github.com/Co-de-iT/froGH
 Mesh Tools: http://www.grasshopper3d.com/group/milkbox/forum/topics/mesh-pipe-and-sweep-mesh  
 Plankton: http://www.grasshopper3d.com/group/plankton  
   
+I plugins citati qui sopra sono reperibili anche nella cartella [@ prerequisites][prereq] di questa repository - seguire le istruzioni incluse nei relativi files **README.txt**.  
+
 Il primo giorno del workshop sarà verificato che tutti abbiano installato quanto richiesto; daremo assistenza a chi ne avrà bisogno per i plug-ins.
+
+[rhino]: https://www.rhino3d.com/
+[gh]: http://www.grasshopper3d.com
+[prereq]: https://github.com/ale2x72/flexible-bodies-ABABO/tree/master/%40%20prerequisites
