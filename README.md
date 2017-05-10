@@ -70,11 +70,12 @@ __. per Rhino__
 TopMost ViewPort: http://www.food4rhino.com/app/topmost-viewport  
 
 __. per Grasshopper__  
-Kangaroo Physics:  http://www.food4rhino.com/app/kangaroo-physics  
-WeaverBird: http://www.giuliopiacentino.com/weaverbird/  
 froGH: https://github.com/Co-de-iT/froGH  
+Human: http://www.food4rhino.com/app/human  
+Kangaroo Physics:  http://www.food4rhino.com/app/kangaroo-physics  
 Mesh Tools: http://www.grasshopper3d.com/group/milkbox/forum/topics/mesh-pipe-and-sweep-mesh  
 Plankton: http://www.grasshopper3d.com/group/plankton  
+WeaverBird: http://www.giuliopiacentino.com/weaverbird/  
   
 I plugins citati qui sopra sono reperibili anche nella cartella [@ prerequisites][prereq] di questa repository - seguire le istruzioni incluse nei relativi files **README.txt**.  
 
